@@ -1,0 +1,11 @@
+.container{
+    padding: 0 1rem;    
+}
+
+.btn{
+    display: inline-block;
+    border: none;
+    background: steelblue;
+    color: white;
+    padding: 7px 20px;
+}
